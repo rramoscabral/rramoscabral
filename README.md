@@ -29,11 +29,11 @@ Welcome to my Github Profile Page
 
 ### :fire: My Stats :
 
-[![Lee Stott GitHub stats](https://github-readme-stats.vercel.app/api?username=rramoscabral&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ricardo Cabral GitHub stats](https://github-readme-stats.vercel.app/api?username=rramoscabral)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rramoscabral&theme=cobalt)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rramoscabral&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rramoscabral)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
