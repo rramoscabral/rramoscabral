@@ -38,4 +38,4 @@ Welcome to my Github Profile Page
 ---
 
 ## Don't Miss My Twitter Activities
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=rramoscabraljs&layout=wide)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=rramoscabral&layout=wide)](https://github.com/gazf/github-readme-twitter)
