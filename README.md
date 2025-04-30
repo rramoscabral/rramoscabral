@@ -1,10 +1,14 @@
+
 ### Hi there 👋
 
-I'm a Microsoft Certified Trainer (MCT) currently residing in Portugal having worked in both administration and development roles with 20+ years of experience in IT management, development, and projects.
+[Ricardo Cabral](https://rramoscabral.com/) is a Microsoft Certified Trainer (MCT) currently residing in Portugal having worked in both administration and development roles with 20+ years of experience in IT management, development, and projects.
 
-Also working as Azure Solutions Architect, consultant, and IT trainer.
+He has extensive experience on Microsoft 365, Microsoft Artificial Intelligence (AI) Solutions, Microsoft Azure, Microsoft Azure DevOps, Microsoft Power Platform, Microsoft Windows Server & Client, Programing language C# and holds several Microsoft certifications.
 
-In my free time, I actively participating, volunteering, speaking and organizer in technical community meetings.
+Now works as Azure Solutions Architect, IT consultant, and IT trainer at [NWORKIT Digital Solutions](https://www.nworkit.pt).
+
+In his free time, he is actively participating, volunteering, speaking and organizing technical community meetings. 
+
 
 <br/>
 
