@@ -49,20 +49,16 @@ Welcome to my Github Profile Page
 
 
 ### :fire: My Stats :
-[![Ricardo Cabral GitHub stats](https://github-readme-stats.vercel.app/api?username=rramoscabral\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Ricardo Cabral GitHub stats](https://github-readme-stats.vercel.app/api?username=rramoscabral)](https://github.com/anuraghazra/github-readme-stats) -->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rramoscabral&rank_icon=github&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=rramoscabral&rank_icon=github&show_icons=true&include_all_commits=true&theme=light_github)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rramoscabral&theme=cobalt)](https://git.io/streak-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=rramoscabral&langs_count=4&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=rramoscabral&langs_count=4&theme=light_github)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rramoscabral)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--[![WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=rramoscabral&langs_count=6&theme=light_github)](https://wakatime.com/@rramoscabral)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rramoscabral&hide=TeX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rramoscabral)](https://github.com/anuraghazra/github-readme-stats) -->
 ---
 
 <!--
 ## Don't Miss My Twitter Activities
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=rramoscabral&layout=wide)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-stats-extended.vercel.app/api?username=rramoscabral&layout=wide)
 -->
